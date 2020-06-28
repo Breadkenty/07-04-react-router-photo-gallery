@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,600;0,700;1,400&family=Roboto:wght@100;400;700&display=swap');
+body {
+  font-family: 'Roboto', sans-serif;
+}
+
+h1 {
+  font-weight: 100;
+  font-size: .9rem;
+  letter-spacing: .25rem;
+}
+
+button {
+  font-family: 'EB Garamond', serif;
+  font-weight: 400;
+  letter-spacing: .15rem;
+}
+
+footer p {
+  text-transform: lowercase;
+  letter-spacing: .15rem;
+  font-size: .8rem;
+  font-weight: 100;
+  color: #2e2e2e;
+}
