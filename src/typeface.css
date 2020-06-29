@@ -15,6 +15,11 @@ button {
   letter-spacing: .15rem;
 }
 
+a {
+  color: #2e2e2e;
+  text-decoration: none;
+}
+
 footer p {
   text-transform: lowercase;
   letter-spacing: .15rem;

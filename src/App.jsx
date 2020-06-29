@@ -1,29 +1,42 @@
 import React, { Component } from 'react'
-import { BrowserRouter as Router, Link, Route, Switch } from 'react-router-dom'
+import { Link, Route, Switch } from 'react-router-dom'
 import sample_data from './data/sample_data.json'
 import { CategoryList } from './components/CategoryList'
+import { PhotoList } from './components/PhotoList'
 
 class App extends Component {
   convertDataObjectsToComponent(data) {
     return (
-      <CategoryList key={data.title} title={data.title} photos={data.photos} />
+      <CategoryList
+        key={data.title}
+        title={data.title}
+        description={data.description}
+        photos={data.photos}
+      />
     )
   }
 
   render() {
     const categoryKeys = Object.keys(sample_data)
 
-    const categoriesToRender = categoryKeys.map(key => {
-      return this.convertDataObjectsToComponent(sample_data[key])
+    const categoriesToRender = categoryKeys.map(categoryName => {
+      return this.convertDataObjectsToComponent(sample_data[categoryName])
     })
 
     return (
-      <Router>
+      <div>
         <header>
-          <h1>kento kawakami film archive</h1>
+          <Link to="/">
+            <h1>kento kawakami film archive</h1>
+          </Link>
         </header>
         <main>
-          <ul>{categoriesToRender}</ul>
+          <Switch>
+            <Route exact path="/">
+              <ul>{categoriesToRender}</ul>
+            </Route>
+            <Route path="/:categoryId" component={PhotoList} />
+          </Switch>
         </main>
         <footer>
           <svg
@@ -36,7 +49,7 @@ class App extends Component {
           </svg>
           <p>Made with love, Kento Kawakami 2020</p>
         </footer>
-      </Router>
+      </div>
     )
   }
 }
