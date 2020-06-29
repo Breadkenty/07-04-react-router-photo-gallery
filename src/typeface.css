@@ -5,14 +5,14 @@ body {
 
 h1 {
   font-weight: 100;
-  font-size: .9rem;
-  letter-spacing: .25rem;
+  font-size: 0.9rem;
+  letter-spacing: 0.25rem;
 }
 
 button {
   font-family: 'EB Garamond', serif;
   font-weight: 400;
-  letter-spacing: .15rem;
+  letter-spacing: 0.15rem;
 }
 
 a {
@@ -20,10 +20,23 @@ a {
   text-decoration: none;
 }
 
-footer p {
+.breadcrumb-item {
   text-transform: lowercase;
-  letter-spacing: .15rem;
-  font-size: .8rem;
+  letter-spacing: 0.15rem;
+  font-size: 0.8rem;
   font-weight: 100;
   color: #2e2e2e;
+}
+
+.breadcrumb .active {
+  font-weight: 400;
+}
+
+footer p {
+  text-transform: lowercase;
+  letter-spacing: 0.15rem;
+  font-size: 0.8rem;
+  font-weight: 100;
+  color: #2e2e2e;
+  margin: 0;
 }
