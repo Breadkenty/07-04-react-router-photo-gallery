@@ -3,9 +3,10 @@ import { Link, Route, Switch } from 'react-router-dom'
 import sample_data from './data/sample_data.json'
 import { CategoryList } from './components/CategoryList'
 import { PhotoList } from './components/PhotoList'
+import { PhotoDetail } from './components/PhotoDetail'
 
 class App extends Component {
-  convertDataObjectsToComponent(data) {
+  convertDataObjectsToCategoryListComponent(data) {
     return (
       <CategoryList
         key={data.title}
@@ -20,7 +21,9 @@ class App extends Component {
     const categoryKeys = Object.keys(sample_data)
 
     const categoriesToRender = categoryKeys.map(categoryName => {
-      return this.convertDataObjectsToComponent(sample_data[categoryName])
+      return this.convertDataObjectsToCategoryListComponent(
+        sample_data[categoryName]
+      )
     })
 
     return (
@@ -32,9 +35,12 @@ class App extends Component {
         </header>
         <main>
           <Switch>
+            {/* Categories */}
             <Route exact path="/">
               <ul>{categoriesToRender}</ul>
             </Route>
+
+            {/* Photos List*/}
             <Route path="/:categoryId" component={PhotoList} />
           </Switch>
         </main>
