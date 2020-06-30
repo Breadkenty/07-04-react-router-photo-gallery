@@ -23,9 +23,6 @@ export class PhotoList extends Component {
   render() {
     const categoryName = this.props.match.params.categoryName
     const category = data[categoryName]
-
-    console.log(category)
-
     return (
       <div>
         <ul className="photo-list-container">
@@ -44,7 +41,7 @@ export class PhotoList extends Component {
               <Link to="/">Home</Link>
             </li>
             <li className="breadcrumb-item active" aria-current="page">
-              <Link to="/pandas">Pandas</Link>
+              <Link to={`/${categoryName}`}>{categoryName}</Link>
             </li>
           </ol>
         </nav>

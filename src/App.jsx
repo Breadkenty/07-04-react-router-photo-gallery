@@ -17,7 +17,11 @@ class App extends Component {
           <Switch>
             <Route exact path="/" component={CategoryList} />
             <Route exact path="/:categoryName" component={PhotoList} />
-            <Route path path="/:categoryName/0" component={PhotoDetail} />
+            <Route
+              path
+              path="/:categoryName/:categoryPhotoIndex"
+              component={PhotoDetail}
+            />
           </Switch>
         </main>
         <footer>
