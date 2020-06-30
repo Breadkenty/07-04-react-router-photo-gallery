@@ -20,6 +20,11 @@ a {
   text-decoration: none;
 }
 
+a:hover {
+  text-decoration: none;
+  color: #1e1e1e;
+}
+
 .breadcrumb-item {
   text-transform: lowercase;
   letter-spacing: 0.15rem;

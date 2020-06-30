@@ -1,48 +1,247 @@
 {
-  "pandas": {
-    "title": "Panda Bears",
-    "description": "Pandas are bears native to south-central China, and are objectively the cutest animals on earth.",
+  "Boston 2019": {
+    "title": "Boston",
+    "highlightedImage": "https://images.squarespace-cdn.com/content/v1/5c75bf3af4755a07a9edee16/1575589686327-U8TG8T8VJ0AI3YUF97J8/ke17ZwdGBToddI8pDm48kIWvDNhd5re3IU8vCqWJmWB7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1USm-YWmAMP8HNlW5uZgL1i6kqh0rBaYX8GEuFORMJVbQoaB7cXlC74RGNr1M0KekWQ/82_Camerainfo.jpg?format=2400w",
+    "position": "center",
     "photos": [
       {
-        "title": "Panda Waving",
-        "imageURL": "https://images.squarespace-cdn.com/content/v1/5c75bf3af4755a07a9edee16/1551310652946-8YLLE5ZOWS01K9KZ3BQR/ke17ZwdGBToddI8pDm48kNiEM88mrzHRsd1mQ3bxVct7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0s0XaMNjCqAzRibjnE_wBlkZ2axuMlPfqFLWy-3Tjp4nKScCHg1XF4aLsQJlo6oYbA/9.jpg?format=1000w",
-        "sourceURL": "https://codeburst.io/pandas-for-data-stuff-code-challenge-7972207a8294"
+        "title": "Harvard Yard'",
+        "imageURL": "https://images.squarespace-cdn.com/content/v1/5c75bf3af4755a07a9edee16/1574903606245-1QD6CALY7XKXYUDAHMIU/ke17ZwdGBToddI8pDm48kAKOKkSLaMVG-jmHOCi20md7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1Udhjzm8e6VFdG7xeze4O3oyXCUNWmMtnFIgTSV2xXxKN7MB8RRNkkHdL3mDhBVBkcA/14_OM1_Portra800_400_020e.jpg?format=1000w",
+        "description": "Harvard Yard in Cambridge, MA"
       },
       {
-        "title": "Großer Panda im Ocean Park, Hongkong",
-        "imageURL": "https://things-i-like.netlify.com/images/grosser_panda.jpg",
-        "sourceURL": "https://en.wikipedia.org/wiki/Giant_panda"
+        "title": "Chinatown",
+        "imageURL": "https://images.squarespace-cdn.com/content/v1/5c75bf3af4755a07a9edee16/1574903454051-I2F329IAKYCWE580W93S/ke17ZwdGBToddI8pDm48kAgiLOzCI5j47JYUc5dgpTh7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UXTUJl3IouK8Xxay_FDruj3OH2FLvYL86yEvQsAsIZqZSs5CAANMhu2QxtIYfHKheg/OM1_Portra800_400_013e.jpg?format=1000w",
+        "description": "Chinatown in Boston, MA"
       },
       {
-        "title": "Wild pandas get a boost; the iconic species has been upgraded from 'endangered' to 'vulnerable.'",
-        "imageURL": "https://things-i-like.netlify.com/images/tree_panda.png",
-        "sourceURL": "https://www.worldwildlife.org/magazine/issues/spring-2017/articles/wild-pandas-get-a-boost--2"
+        "title": "Gourmet Dumpling House",
+        "imageURL": "https://images.squarespace-cdn.com/content/v1/5c75bf3af4755a07a9edee16/1574903448449-YOMT9TFCJI1VU1ICXT7M/ke17ZwdGBToddI8pDm48kNx5nWostyGLDXgtP6oTqa97gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UTBOE8dUvI6A1AfXrXM_XnE1wI7c1Cdo4RAe48FANOcwjIjg7l_3EkjvTQ6EpWDFFA/OM1_Portra800_400_012e.jpg?format=1000w",
+        "description": "Gourmet Dumpling House in Chinatown, Boston, MA"
       },
       {
-        "title": "Sacred Warrior, by Adrian Smith",
-        "imageURL": "https://things-i-like.netlify.com/images/rising_sun.png",
-        "sourceURL": "https://www.artstation.com/adrian-smith/albums/1298277"
+        "title": "Pinnochio's Pizza & Subs",
+        "imageURL": "https://images.squarespace-cdn.com/content/v1/5c75bf3af4755a07a9edee16/1574903676408-Q83AJOIDCNTOGAZP813V/ke17ZwdGBToddI8pDm48kNx5nWostyGLDXgtP6oTqa97gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UTBOE8dUvI6A1AfXrXM_XnE1wI7c1Cdo4RAe48FANOcwjIjg7l_3EkjvTQ6EpWDFFA/21_OM1_Portra800_400_026e.jpg?format=1000w",
+        "description": "Pinnochio's Pizza & Subs in Cambridge, MA"
+      },
+      {
+        "title": "Sign in a MBTA Bus",
+        "imageURL": "https://images.squarespace-cdn.com/content/v1/5c75bf3af4755a07a9edee16/1574903714144-BPZD6QRRQBUYNBVG1DJE/ke17ZwdGBToddI8pDm48kCwWnkahvujsqG80lzpLa1V7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UVC5ZpYmsTjRgXnATrG0uuMiXOsL6n7HNkmV6yUfNoitDA5MuYbduysEDAM1kV879Q/24_OM1_Portra800_400_029e.jpg?format=1000w",
+        "description": "A sign that reads \"Walk to Fight Suicide\" in Boston, MA"
+      },
+      {
+        "title": "North End",
+        "imageURL": "https://images.squarespace-cdn.com/content/v1/5c75bf3af4755a07a9edee16/1575589321600-XX302MASUC4585FZHBZX/ke17ZwdGBToddI8pDm48kNx5nWostyGLDXgtP6oTqa97gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UTBOE8dUvI6A1AfXrXM_XnE1wI7c1Cdo4RAe48FANOcwjIjg7l_3EkjvTQ6EpWDFFA/22_Camerainfo.jpg?format=1000w",
+        "description": "Road in North End, Boston, MA"
+      },
+      {
+        "title": "Workers Outside of Bova's Bakery",
+        "imageURL": "https://images.squarespace-cdn.com/content/v1/5c75bf3af4755a07a9edee16/1575589393191-34JNDHB6E2F61R00X4ZU/ke17ZwdGBToddI8pDm48kEEXJqT6UZzo6_T_IEtk8lR7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1Ua7GyuyleZfZLbh1TL99aL4EVZ3HdY4X3R4vaGMghUvwBPQhVEbTV4SmYd07HZaZ-g/33_Camerainfo.jpg?format=1000w",
+        "description": "Workers Outside of Bova's Bakery in North End, Boston, MA"
+      },
+      {
+        "title": "Rent Control",
+        "imageURL": "https://images.squarespace-cdn.com/content/v1/5c75bf3af4755a07a9edee16/1575589543395-GRBVESR16JHIZN8GOFIP/ke17ZwdGBToddI8pDm48kMyX43o3HznWzvVjR9Preul7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0mhydAgiKdIfeAoxVgE7c7okPoKA5uALweq0Eh5ZSPFNMZ1UtBwwVjWySAS2xzp0KQ/57_Camerainfo.jpg?format=1000w",
+        "description": "Man speaking in front of the Massachusetts State House in Boston, MA"
+      },
+      {
+        "title": "Market in Copley Square",
+        "imageURL": "https://images.squarespace-cdn.com/content/v1/5c75bf3af4755a07a9edee16/1575589659599-H91B366T56PQMWEH7UTL/ke17ZwdGBToddI8pDm48kF-imn3yIemqnV5BjuPqbAZ7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UbZjts64qOVeh8VmvWRMaDn-L6Iu3_ClSRk-p2KLzpzsitOsjnk4bl7vPmBic-oxrQ/77_Camerainfo.jpg?format=1000w",
+        "description": "Market in Copley Square Boston, MA"
+      },
+      {
+        "title": "Boston Cityscape",
+        "imageURL": "https://images.squarespace-cdn.com/content/v1/5c75bf3af4755a07a9edee16/1575589686327-U8TG8T8VJ0AI3YUF97J8/ke17ZwdGBToddI8pDm48kIWvDNhd5re3IU8vCqWJmWB7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1USm-YWmAMP8HNlW5uZgL1i6kqh0rBaYX8GEuFORMJVbQoaB7cXlC74RGNr1M0KekWQ/82_Camerainfo.jpg?format=1000w",
+        "description": "Boston Cityscape in Boston, MA"
+      },
+      {
+        "title": "Today is my Birthday",
+        "imageURL": "https://images.squarespace-cdn.com/content/v1/5c75bf3af4755a07a9edee16/1575589756404-ICLEQ51ITI7PJQJ0WYSL/ke17ZwdGBToddI8pDm48kAi8gAE8kOpYSq45WyyTPcB7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1Ueeyb-gJS8pg1Ayk2DcXrIwWY9WdIGj3NiGUu5Zv-sOXBsc6d8xABtQMYHwnG515BA/95_Camerainfo.jpg?format=1000w",
+        "description": "Homeless Man with a \"Today is my 40th birthday\" sign Boston, MA"
+      },
+      {
+        "title": "Lamp",
+        "imageURL": "https://images.squarespace-cdn.com/content/v1/5c75bf3af4755a07a9edee16/1575589766561-DDZ0XPX37P7MATTSCZVZ/ke17ZwdGBToddI8pDm48kGizRh-Q8s_bc3pa1UIqpHV7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1USH90PdmNXZowNk-1nplEceP15gbuqX22Lpgs32wta6vr1HYy7g08hHol-DJo4Pjhw/97_Camerainfo.jpg?format=1000w",
+        "description": "Lamp in L.A Burdick Boston, MA"
+      },
+      {
+        "title": "Steaming Manhole",
+        "imageURL": "https://images.squarespace-cdn.com/content/v1/5c75bf3af4755a07a9edee16/1575589820370-IF22PNI1UXMAR31J7PXY/ke17ZwdGBToddI8pDm48kAi8gAE8kOpYSq45WyyTPcB7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1Ueeyb-gJS8pg1Ayk2DcXrIwWY9WdIGj3NiGUu5Zv-sOXBsc6d8xABtQMYHwnG515BA/107_Camerainfo.jpg?format=1000w",
+        "description": "Steaming Manhole in Boston, MA"
+      },
+      {
+        "title": "Girl Looking at the Prudential Tower",
+        "imageURL": "https://images.squarespace-cdn.com/content/v1/5c75bf3af4755a07a9edee16/1575589837988-2O85MNMLEWDAICH3RILM/ke17ZwdGBToddI8pDm48kO-C7LlX4_E2VT6WQVGhhFt7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UaHutp126M2f7E9Z6OOS7FAAKYXOxU6bYY9a2cjk4t3Sb14M0pviVa_3NKqgxwc6Qg/110_Camerainfo.jpg?format=1000w",
+        "description": "Girl Staring at the Prudential Tower in Boston, MA"
+      },
+      {
+        "title": "Boston Symphony Orchestra",
+        "imageURL": "https://images.squarespace-cdn.com/content/v1/5c75bf3af4755a07a9edee16/1575589841014-09V7DCMQGRI39NFKTMFW/ke17ZwdGBToddI8pDm48kOkBANitGbn8LmDuhO5BYnF7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UcWzXWuxEurD6iCq-z89vFp5IHcKvuAD_kEv429iAxQjQKnkgu1CjACuGd09OcDW5A/111_Camerainfo.jpg?format=1000w",
+        "description": "Exterior of the Boston Symphony Orchestra Building in Boston, MA"
+      },
+      {
+        "title": "Girl in the Harvard Yard",
+        "imageURL": "https://images.squarespace-cdn.com/content/v1/5c75bf3af4755a07a9edee16/1574904418205-4N93G9VTVQDSXPT82KHT/ke17ZwdGBToddI8pDm48kIWvDNhd5re3IU8vCqWJmWB7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1USm-YWmAMP8HNlW5uZgL1i6kqh0rBaYX8GEuFORMJVbQoaB7cXlC74RGNr1M0KekWQ/1_Scans-135.jpg?format=1000w",
+        "description": "Girl Sitting Down outside the Harvard Yard in Cambridge, MA"
+      },
+      {
+        "title": "I Want to Believe",
+        "imageURL": "https://images.squarespace-cdn.com/content/v1/5c75bf3af4755a07a9edee16/1574904488409-1Q0U8XKEIUAUV2DJ5BM6/ke17ZwdGBToddI8pDm48kDBJr0AumMkUhdBnj9TSR-x7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UTYp609Nc4ZdcUA4VZ0HidYsCgS6faf_g6VPz7aVJdY6iesm8fpB3zYw4SZR-AlygA/11_Rollei_TriX_1600_004.jpg?format=1000w",
+        "description": "A sign that reads \"I want to believe\" in Cambridge, MA"
+      },
+      {
+        "title": "Homelessman and a Researcher",
+        "imageURL": "https://images.squarespace-cdn.com/content/v1/5c75bf3af4755a07a9edee16/1574904512671-YJEZI0ASKTR75CF3264Q/ke17ZwdGBToddI8pDm48kEEXJqT6UZzo6_T_IEtk8lR7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1Ua7GyuyleZfZLbh1TL99aL4EVZ3HdY4X3R4vaGMghUvwBPQhVEbTV4SmYd07HZaZ-g/15_Rollei_TriX_1600_008.jpg?format=1000w",
+        "description": "A homeless person and a researcher in Harvard Square in Cambridge, MA"
+      },
+      {
+        "title": "A Worker in a Chocolate Factory",
+        "imageURL": "https://images.squarespace-cdn.com/content/v1/5c75bf3af4755a07a9edee16/1574904659180-6N75BGD72DFWLIRCEO9D/ke17ZwdGBToddI8pDm48kMyX43o3HznWzvVjR9Preul7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0mhydAgiKdIfeAoxVgE7c7okPoKA5uALweq0Eh5ZSPFNMZ1UtBwwVjWySAS2xzp0KQ/36_Scans-183.jpg?format=1000w",
+        "description": "Chocolate Factory Worker in Taza Chocolate in Cambridge, MA"
+      },
+      {
+        "title": "Traffic Lights",
+        "imageURL": "https://images.squarespace-cdn.com/content/v1/5c75bf3af4755a07a9edee16/1574904774283-L0PIP5D2PG586671GWKZ/ke17ZwdGBToddI8pDm48kNx5nWostyGLDXgtP6oTqa97gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UTBOE8dUvI6A1AfXrXM_XnE1wI7c1Cdo4RAe48FANOcwjIjg7l_3EkjvTQ6EpWDFFA/55_Scans-203.jpg?format=1000w",
+        "description": "Traffic lights in Boston, MA"
+      },
+      {
+        "title": "A Man Fishing at the Charles River",
+        "imageURL": "https://images.squarespace-cdn.com/content/v1/5c75bf3af4755a07a9edee16/1574904783145-F8XHWRJNPO0L5TPXR870/ke17ZwdGBToddI8pDm48kNx5nWostyGLDXgtP6oTqa97gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UTBOE8dUvI6A1AfXrXM_XnE1wI7c1Cdo4RAe48FANOcwjIjg7l_3EkjvTQ6EpWDFFA/57_Scans-205.jpg?format=1000w",
+        "description": "A Man Fishing at the Charles River, Boston, MA"
+      },
+      {
+        "title": "Destination:",
+        "imageURL": "https://images.squarespace-cdn.com/content/v1/5c75bf3af4755a07a9edee16/1574904977153-P9GZKCQIH5B20C3610WR/ke17ZwdGBToddI8pDm48kDMnNajdBOJiXJxAvQrjDUl7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UcCb4xpXvJLLatBUE4d78vxP8vhg6bNuq5rIz27mPI9yrYUjRjvLI-neyS-6l0KA5A/77_OM1_Portra400_200_015e.jpg?format=1000w",
+        "description": "Inside of an empty MBTA subway, Boston, MA"
+      },
+      {
+        "title": "A Man With His Cigarette in Chinatown",
+        "imageURL": "https://images.squarespace-cdn.com/content/v1/5c75bf3af4755a07a9edee16/1574904297751-FXOF5HCG6V16FTVZAM16/ke17ZwdGBToddI8pDm48kEEXJqT6UZzo6_T_IEtk8lR7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1Ua7GyuyleZfZLbh1TL99aL4EVZ3HdY4X3R4vaGMghUvwBPQhVEbTV4SmYd07HZaZ-g/24_Rollei_TriX_1600_010.jpg?format=1000w",
+        "description": "A man smoking a cigarette on a Chinatown sidewalk, Boston, MA"
+      },
+      {
+        "title": "A Reflection of the Boston Custom House Clocktower on a Rain Puddle",
+        "imageURL": "https://images.squarespace-cdn.com/content/v1/5c75bf3af4755a07a9edee16/1574904306010-WLZ9JBI2C63FI2ZNON0F/ke17ZwdGBToddI8pDm48kN6XyJwzr53RjV073MMgXQB7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UUE9x3vuGGAIckrqjmXyrS4IQ8yngGZ1NhmNNZ7s2bmaGgPm0ASfA-O5uh-uhwzUgg/25_Rollei_TriX_1600_011.jpg?format=1000w",
+        "description": "A Reflection of the Boston Custom House Clocktower on a Rain Puddle in Boston, MA"
+      },
+      {
+        "title": "Boston's Cityscape from an Airplane",
+        "imageURL": "https://images.squarespace-cdn.com/content/v1/5c75bf3af4755a07a9edee16/1574904356021-AKFV7Y36T0F3AS0A5QB8/ke17ZwdGBToddI8pDm48kLhx9oeHaCQkpC4gD9Znz5t7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UZOqOmjXD6V_v2fGvTdjQ2sMpzgwQrUJ4NkICostOS7RWba5L34rbLYwbmLnwJFOnw/30_OM1_Portra400_200_025e.jpg?format=1000w",
+        "description": "Boston's cityscape from an airplane"
       }
     ]
   },
-  "miniatures": {
-    "title": "Miniature Painting",
-    "description": "I enjoy painting miniatures from board games. I've been painting since early 2018, here's some of my work.",
+  "Colorado 2019": {
+    "title": "Colorado",
+    "highlightedImage": "https://images.squarespace-cdn.com/content/v1/5c75bf3af4755a07a9edee16/1568562149674-A90GDF3TZIRCGZ9BMFEL/ke17ZwdGBToddI8pDm48kNiEM88mrzHRsd1mQ3bxVct7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0s0XaMNjCqAzRibjnE_wBlkZ2axuMlPfqFLWy-3Tjp4nKScCHg1XF4aLsQJlo6oYbA/082019-4.jpg?format=3000w",
+    "position": "center",
     "photos": [
       {
-        "title": "City of Kings",
+        "title": "Sunflowers",
+        "imageURL": "https://images.squarespace-cdn.com/content/v1/5c75bf3af4755a07a9edee16/1568561669942-TPIQQKEKK7KF7L4CDTF7/ke17ZwdGBToddI8pDm48kNiEM88mrzHRsd1mQ3bxVct7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0s0XaMNjCqAzRibjnE_wBlkZ2axuMlPfqFLWy-3Tjp4nKScCHg1XF4aLsQJlo6oYbA/081719-14.jpg?format=1000w",
+        "description": "Sunflowers in the Four Pass Loop Trail"
+      },
+      {
+        "title": "Tent",
+        "imageURL": "https://images.squarespace-cdn.com/content/v1/5c75bf3af4755a07a9edee16/1568561688651-6DQWUS4JDUUJ5VHINMDH/ke17ZwdGBToddI8pDm48kNiEM88mrzHRsd1mQ3bxVct7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0s0XaMNjCqAzRibjnE_wBlkZ2axuMlPfqFLWy-3Tjp4nKScCHg1XF4aLsQJlo6oYbA/081719-18.jpg?format=1000w",
+        "description": "A tent in the four pass loop trail"
+      },
+      {
+        "title": "Wildflowers",
         "imageURL": "https://images.squarespace-cdn.com/content/v1/5c75bf3af4755a07a9edee16/1568561689328-1JAM3LPRXXPE655HYS20/ke17ZwdGBToddI8pDm48kNiEM88mrzHRsd1mQ3bxVct7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0s0XaMNjCqAzRibjnE_wBlkZ2axuMlPfqFLWy-3Tjp4nKScCHg1XF4aLsQJlo6oYbA/081719-19.jpg?format=1000w",
-        "sourceURL": "https://www.instagram.com/p/Btv-0uYH8Xc"
+        "description": "Wildflowers in the four pass loop trail"
       },
       {
-        "title": "Blood Rage, Ram Clan",
-        "imageURL": "https://things-i-like.netlify.com/images/ram_clan.jpg",
-        "sourceURL": "https://www.instagram.com/p/BjRKLqYh4gK"
+        "title": "Sunrise and its Moon",
+        "imageURL": "https://images.squarespace-cdn.com/content/v1/5c75bf3af4755a07a9edee16/1568561753880-3F22AE8KGHT4TEJ2S58C/ke17ZwdGBToddI8pDm48kNiEM88mrzHRsd1mQ3bxVct7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0s0XaMNjCqAzRibjnE_wBlkZ2axuMlPfqFLWy-3Tjp4nKScCHg1XF4aLsQJlo6oYbA/081819-1.jpg?format=1000w",
+        "description": "Sunrise with the moon over the West Maroon Pass"
       },
       {
-        "title": "Cormac the Druid, work in progress",
-        "imageURL": "https://things-i-like.netlify.com/images/cormac.jpg",
-        "sourceURL": "https://www.instagram.com/p/BnW2QrWDaky"
+        "title": "Self-Portrait by the West Maroon Pass",
+        "imageURL": "https://images.squarespace-cdn.com/content/v1/5c75bf3af4755a07a9edee16/1568561762284-TJKGIZHHHHE9XJ0JUTYO/ke17ZwdGBToddI8pDm48kNiEM88mrzHRsd1mQ3bxVct7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0s0XaMNjCqAzRibjnE_wBlkZ2axuMlPfqFLWy-3Tjp4nKScCHg1XF4aLsQJlo6oYbA/081819-3.jpg?format=1000w",
+        "description": "Self Portrait by the West Maroon Pass"
+      },
+      {
+        "title": "View From the West Maroon Pass",
+        "imageURL": "https://images.squarespace-cdn.com/content/v1/5c75bf3af4755a07a9edee16/1568561796190-65JF6197QXPO7B48GIJH/ke17ZwdGBToddI8pDm48kNiEM88mrzHRsd1mQ3bxVct7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0s0XaMNjCqAzRibjnE_wBlkZ2axuMlPfqFLWy-3Tjp4nKScCHg1XF4aLsQJlo6oYbA/081819-11.jpg?format=1000w",
+        "description": "View From the West Maroon Pass"
+      },
+      {
+        "title": "Campsite by Crater Lake",
+        "imageURL": "https://images.squarespace-cdn.com/content/v1/5c75bf3af4755a07a9edee16/1568561970285-E3LX9VPL4IWQU0M5M59K/ke17ZwdGBToddI8pDm48kNiEM88mrzHRsd1mQ3bxVct7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0s0XaMNjCqAzRibjnE_wBlkZ2axuMlPfqFLWy-3Tjp4nKScCHg1XF4aLsQJlo6oYbA/081919-12.jpg?format=1000w",
+        "description": "Campsite by Crater Lake"
+      },
+      {
+        "title": "Virginia Blue Bells",
+        "imageURL": "https://images.squarespace-cdn.com/content/v1/5c75bf3af4755a07a9edee16/1568562018087-PCY937YLOQ9Q27ICDL80/ke17ZwdGBToddI8pDm48kNiEM88mrzHRsd1mQ3bxVct7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0s0XaMNjCqAzRibjnE_wBlkZ2axuMlPfqFLWy-3Tjp4nKScCHg1XF4aLsQJlo6oYbA/081919-23.jpg?format=1000w",
+        "description": "Wild Virginia Blue Bells"
+      },
+      {
+        "title": "Reflection of a Valley on Crater Lake",
+        "imageURL": "https://images.squarespace-cdn.com/content/v1/5c75bf3af4755a07a9edee16/1568567743403-ABTMUB919JXTI4IPVCXE/ke17ZwdGBToddI8pDm48kNiEM88mrzHRsd1mQ3bxVct7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0s0XaMNjCqAzRibjnE_wBlkZ2axuMlPfqFLWy-3Tjp4nKScCHg1XF4aLsQJlo6oYbA/081919-30.jpg?format=1000w",
+        "description": "Reflection of a Valley on Crater Lake"
+      },
+      {
+        "title": "Sunrise on the Peaks of Maroon Bells",
+        "imageURL": "https://images.squarespace-cdn.com/content/v1/5c75bf3af4755a07a9edee16/1568562149674-A90GDF3TZIRCGZ9BMFEL/ke17ZwdGBToddI8pDm48kNiEM88mrzHRsd1mQ3bxVct7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0s0XaMNjCqAzRibjnE_wBlkZ2axuMlPfqFLWy-3Tjp4nKScCHg1XF4aLsQJlo6oYbA/082019-4.jpg?format=1000w",
+        "description": "Sunrise on the Peaks of Maroon Bells"
+      },
+      {
+        "title": "Road on Pikes Peak Highway",
+        "imageURL": "https://images.squarespace-cdn.com/content/v1/5c75bf3af4755a07a9edee16/1568562286815-VAXO4BGOW2SJ5FQP9F5N/ke17ZwdGBToddI8pDm48kNiEM88mrzHRsd1mQ3bxVct7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0s0XaMNjCqAzRibjnE_wBlkZ2axuMlPfqFLWy-3Tjp4nKScCHg1XF4aLsQJlo6oYbA/082119-1.jpg?format=1000w",
+        "description": "Road leading up pikes peak highway"
+      },
+      {
+        "title": "Pikes Peak",
+        "imageURL": "https://images.squarespace-cdn.com/content/v1/5c75bf3af4755a07a9edee16/1568562286680-BQ8L9R2XJDJ1XSRBXI12/ke17ZwdGBToddI8pDm48kNiEM88mrzHRsd1mQ3bxVct7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0s0XaMNjCqAzRibjnE_wBlkZ2axuMlPfqFLWy-3Tjp4nKScCHg1XF4aLsQJlo6oYbA/082119-2.jpg?format=1000w",
+        "description": "Pikes Peak"
+      },
+      {
+        "title": "Sunflowers by the Garden of the Gods",
+        "imageURL": "https://images.squarespace-cdn.com/content/v1/5c75bf3af4755a07a9edee16/1568562317831-JL6AM8DSQ6ZZKEJ2PBCA/ke17ZwdGBToddI8pDm48kNiEM88mrzHRsd1mQ3bxVct7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0s0XaMNjCqAzRibjnE_wBlkZ2axuMlPfqFLWy-3Tjp4nKScCHg1XF4aLsQJlo6oYbA/082119-9.jpg?format=1000w",
+        "description": "Sunflowers by the Garden of the Gods"
+      }
+    ]
+  },
+  "California 2018": {
+    "title": "California",
+    "highlightedImage": "https://images.squarespace-cdn.com/content/v1/5c75bf3af4755a07a9edee16/1551540411593-38J7OBC1HVS1O0265SY5/ke17ZwdGBToddI8pDm48kNiEM88mrzHRsd1mQ3bxVct7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0s0XaMNjCqAzRibjnE_wBlkZ2axuMlPfqFLWy-3Tjp4nKScCHg1XF4aLsQJlo6oYbA/112718_Rollei_Ektar_100_006.jpg?format=1000w",
+    "position": "center bottom",
+    "photos": [
+      {
+        "title": "Pacific Coast Highway",
+        "imageURL": "https://images.squarespace-cdn.com/content/v1/5c75bf3af4755a07a9edee16/1552427854866-QNWKBUXE7N8JXAYK24GU/ke17ZwdGBToddI8pDm48kEt_v2EX9GtAJgLtqLXx-3J7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0gmXcXvEVFTLbYX9CdVcGe6CRawwjMbRFT4hbu0QnHz9xuVto2nJwMxrL2rUquKQ0A/112518_AE1_Ektachrome_100_007.jpg?format=1000w",
+        "description": "Pacific Coast Highway"
+      },
+      {
+        "title": "Tidal Pool in Recon Beach",
+        "imageURL": "https://images.squarespace-cdn.com/content/v1/5c75bf3af4755a07a9edee16/1551539180502-1UZ08IJZOK8L196C7ANG/ke17ZwdGBToddI8pDm48kNiEM88mrzHRsd1mQ3bxVct7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0s0XaMNjCqAzRibjnE_wBlkZ2axuMlPfqFLWy-3Tjp4nKScCHg1XF4aLsQJlo6oYbA/112518_Rollei_Ektar_100_002.jpg?format=1000w",
+        "description": "Tidal Pool in Rincon Beach, Santa Barbara"
+      },
+      {
+        "title": "Sea Anemone in a Tidal Pool",
+        "imageURL": "https://images.squarespace-cdn.com/content/v1/5c75bf3af4755a07a9edee16/1551539215165-QLD0KSHNCY9LYE0IG7GR/ke17ZwdGBToddI8pDm48kNiEM88mrzHRsd1mQ3bxVct7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0s0XaMNjCqAzRibjnE_wBlkZ2axuMlPfqFLWy-3Tjp4nKScCHg1XF4aLsQJlo6oYbA/112518_Rollei_Ektar_100_009.jpg?format=1000w",
+        "description": "Sea Anemone in a Tidal Pool in Rincon Beach, Santa Barabara"
+      },
+      {
+        "title": "Cows by an Industrial Plant in the Mojave Desert",
+        "imageURL": "https://images.squarespace-cdn.com/content/v1/5c75bf3af4755a07a9edee16/1551540411593-38J7OBC1HVS1O0265SY5/ke17ZwdGBToddI8pDm48kNiEM88mrzHRsd1mQ3bxVct7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0s0XaMNjCqAzRibjnE_wBlkZ2axuMlPfqFLWy-3Tjp4nKScCHg1XF4aLsQJlo6oYbA/112718_Rollei_Ektar_100_006.jpg?format=1000w",
+        "description": "Cows by an Industrial Plant in the Mojave Desert"
+      },
+      {
+        "title": "Road Up Sequoia National Forest",
+        "imageURL": "https://images.squarespace-cdn.com/content/v1/5c75bf3af4755a07a9edee16/1551540558425-F2GKDV2XEZT6RA8OMHAL/ke17ZwdGBToddI8pDm48kNiEM88mrzHRsd1mQ3bxVct7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0s0XaMNjCqAzRibjnE_wBlkZ2axuMlPfqFLWy-3Tjp4nKScCHg1XF4aLsQJlo6oYbA/112718_Rollei_Ektar_100_010.jpg?format=1000w",
+        "description": "Road Up Sequoia National Forest"
+      },
+      {
+        "title": "Sequoia Trees",
+        "imageURL": "https://images.squarespace-cdn.com/content/v1/5c75bf3af4755a07a9edee16/1551540640832-FC04NZCEZDGQP243O2EG/ke17ZwdGBToddI8pDm48kNiEM88mrzHRsd1mQ3bxVct7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0s0XaMNjCqAzRibjnE_wBlkZ2axuMlPfqFLWy-3Tjp4nKScCHg1XF4aLsQJlo6oYbA/112718_Rollei_Ektar_100_004.jpg?format=1000w",
+        "description": "Sequoia Trees in Sequoia National Forest"
+      },
+      {
+        "title": "Sunflowers at the Base of Big Bear Mountain",
+        "imageURL": "https://images.squarespace-cdn.com/content/v1/5c75bf3af4755a07a9edee16/1551540116543-YKXDS1I4J79EP6N3D3DG/ke17ZwdGBToddI8pDm48kNiEM88mrzHRsd1mQ3bxVct7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0s0XaMNjCqAzRibjnE_wBlkZ2axuMlPfqFLWy-3Tjp4nKScCHg1XF4aLsQJlo6oYbA/112818_Rollei_Ektar_100_011.jpg?format=1000w",
+        "description": "Sunflowers at the Base of Big Bear Mountain"
       }
     ]
   }

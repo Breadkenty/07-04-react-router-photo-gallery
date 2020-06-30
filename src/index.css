@@ -14,7 +14,6 @@ body {
 header {
   height: 75px;
   width: 100%;
-  border-bottom: 1px solid rgba(0, 0, 0, 0.15);
   background-color: rgba(255, 255, 255, 1);
   position: sticky;
   top: 0;
@@ -40,7 +39,6 @@ li {
   justify-content: center;
   align-items: center;
   background-size: cover;
-  background-position: center;
 }
 
 .portfolio-image button {
@@ -81,7 +79,7 @@ li {
 .photo-detail-image {
   width: 100vw;
   height: calc(100vh - 125px);
-  background-position: center;
+  background-position: 50% 100%;
   background-size: contain;
   background-repeat: no-repeat;
 }
@@ -106,7 +104,7 @@ footer svg {
   display: flex;
   justify-content: center;
   align-items: center;
-  margin: 15px 0 15px 0;
+  margin: 30px 0 15px 0;
   padding: 0;
   background: none;
 }
